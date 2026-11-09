@@ -155,6 +155,15 @@ An expert advisor for Unity 6.x LTS game development. Gives accurate, version-aw
 
 ---
 
+#### 🧩 [`godot-prompt-optimizer`](gamedev/godot-prompt-optimizer/SKILL.md)
+**Status:** Production · **Domain:** Godot Game Development / MCP Prompt Engineering
+
+Turns rough game ideas into precise Godot 4 prompts, specs, implementation plans, and test criteria. Integrates **NPGameDev Godot MCP Toolkit**, **IvanMurzak Godot-MCP** (Asset Library 5245), and **Coding-Solo godot-mcp**. Includes pinned, non-destructive [NPGameDev installer](gamedev/godot-prompt-optimizer/scripts/install_mcp_toolkit.py) and [setup guide](gamedev/godot-prompt-optimizer/references/mcp-installation.md).
+
+**Triggers on:** Godot project setup, MCP installation, Godot scene/script planning, game idea optimization, Godot debugging, and spec-driven game development.
+
+---
+
 ### 🎵 Creative
 
 ---

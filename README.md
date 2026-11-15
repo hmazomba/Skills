@@ -53,6 +53,15 @@ Replaces shallow single-search lookups with a four-phase systematic research met
 
 ---
 
+#### 🧭 [`deepen-task-prompt`](general/deepen-task-prompt/SKILL.md)
+**Status:** Production · **Domain:** Prompt Engineering & Evidence-Based Task Design
+
+Deepens an existing task prompt without expanding its scope. Identifies expert practices, raw source material, task-specific methods and tools, and independent evidence of correctness, then rewrites the prompt into a ready-to-use brief.
+
+**Triggers on:** Requests to deepen, sharpen, or rewrite a task prompt while preserving its objective and boundaries.
+
+---
+
 ### 🏗️ Development
 
 ---

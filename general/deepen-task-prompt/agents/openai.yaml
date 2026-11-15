@@ -1,0 +1,4 @@
+interface:
+  display_name: Deepen Task Prompt
+  short_description: Turn prompts into evidence-led, deeper work briefs
+  default_prompt: "Deepen this task prompt: identify expert moves, raw source material, methods and tools, and independent proof of correctness, then rewrite the prompt."
